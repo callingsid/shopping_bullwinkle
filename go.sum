@@ -10,6 +10,8 @@ github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24
 github.com/beorn7/perks v1.0.0/go.mod h1:KWe93zE9D1o94FZ5RNwFwVgaQK1VOXiVxmqh+CedLV8=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
+github.com/callingsid/shopping_product v0.0.0-20200412120246-7d5f51a4efbb h1:/FpJZCrBXTEAo+mRfDf6JWMWay+/J6U80Dah3uhYskY=
+github.com/callingsid/shopping_product v0.0.0-20200412120246-7d5f51a4efbb/go.mod h1:wQJ8Uq4nI1A58GkEsB2ydsEtD4x45VPg4Ejt44i5tJo=
 github.com/callingsid/shopping_utils v0.0.0-20200411131340-be3b1ead9c6d h1:WTSOTkrD8KCKMlIWBuQVf881VvAu0KWUh+948RPA0AA=
 github.com/callingsid/shopping_utils v0.0.0-20200411131340-be3b1ead9c6d/go.mod h1:DM8M8fKYETauagQW+HhrUO78dlfjWe5NzwaGjEvI1f4=
 github.com/callingsid/shopping_utils v0.0.0-20200413101418-ba21ee870c48 h1:KmYq76vNUN6jy9LjbDW+8ySnzX4BHPze0pPjOKdAt3A=
@@ -77,6 +79,7 @@ github.com/mattn/go-isatty v0.0.12 h1:wuysRhFDzyxgEmMf5xjvJ2M9dZoWAXNNr5LSBS7uHX
 github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Kysco4FUpU=
 github.com/matttproud/golang_protobuf_extensions v1.0.1 h1:4hp9jkHxhMHkqkrB3Ix0jegS5sx/RkqARlsWZ6pIwiU=
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=
+github.com/mitchellh/mapstructure v1.2.2/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
 github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
 github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
