@@ -13,7 +13,9 @@ COPY src $WORKDIR
 
 RUN echo $PWD
 
-RUN ls
+RUN echo $ls
 
-RUN go build main.go
+RUN go build
+EXPOSE 8080
+ 
 CMD ["./main"]
