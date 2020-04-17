@@ -14,6 +14,11 @@ import (
 func startMessageConsumer() {
 	topics := []string{ "shop2.operation.post", "shop2.operation.res"}
 	consumer, errors := queue.Client.StartConsumer(topics)
+	if errors != nil {
+		fmt.Println("The error in the handle is :", errors)
+		logger.Info("failed to get kafka client handle")
+		//panic(errors)
+	}
 
 	signals := make(chan os.Signal, 1)
 	signal.Notify(signals, os.Interrupt)
